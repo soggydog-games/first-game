@@ -17,7 +17,7 @@ This is my first game as Soggy Dog. It will be a fan game for the YouTuber Jerom
 ## 🖼️ Current Progress
 
 - [x] Game concept
-- [ ] First pixel art assets
+- [x] First pixel art assets
 - [ ] Basic mechanics
 - [ ] A playable prototype
 - [ ] Polish and juice
