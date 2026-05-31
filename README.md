@@ -1,4 +1,4 @@
-# 🎮 [Buddies Brawl - Temporary]
+# 🎮 Buddies Brawl [Temporary]
 
 A pixel art game by Soggy Dog Games.
 
@@ -8,8 +8,8 @@ A pixel art game by Soggy Dog Games.
 
 This is my first game as Soggy Dog. It's small, it's pixel art, and it's a little chaotic.
 
-**Genre:** [PVP Platformer]
-**Engine:** [Unity]
+**Genre:** PVP Platformer
+**Engine:** Unity
 **Status:** Early development
 
 ---
